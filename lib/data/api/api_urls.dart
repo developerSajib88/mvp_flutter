@@ -4,6 +4,6 @@ abstract class ApiUrls {
 
   static String product = "${baseUrl}products";
   static String cart = "${baseUrl}carts";
-  static String comment = "${baseUrl}comments";
+  static String comment = "${baseUrl}categories";
 
 }
